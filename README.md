@@ -9,7 +9,7 @@ The app is downloadable at [Google Play Store](https://play.google.com/store/app
 
 ## Author
 
-With the help from **Contributing** above, this work is done by Akansha Goel, **Gloria Kim**, and Jagdish Kumar Katariya.
+This work is done by Akansha Goel, **Gloria Kim**, and Jagdish Kumar Katariya.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
